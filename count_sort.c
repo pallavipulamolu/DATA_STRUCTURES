@@ -43,4 +43,5 @@ int main(){
     countSort(a,n);
     printf("After sorting: ");
     display(a,n);
+    return 1;
 }
